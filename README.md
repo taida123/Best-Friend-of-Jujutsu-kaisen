@@ -1,1 +1,0 @@
-# Best-Friend-of-Jujutsu-kaisen
