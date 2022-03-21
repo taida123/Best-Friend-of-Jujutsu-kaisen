@@ -1,0 +1,15 @@
+img {
+    height: 200px;
+
+
+}
+
+.jjk {
+    justify-content: center;
+    display: flex;
+}
+
+.parent {
+    background-image: url("https://image.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-122.jpg");
+
+}
